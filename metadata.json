@@ -1,0 +1,41 @@
+{
+  "name": "Girl leadership #149",
+  "symbol": "GL2",
+  "description": "A Gang Of Fatal Foxes Wrecking Havoc Across Solana",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/EAPlv_a-LDJ0takCZSW-YzQw-aHZ4gfJgWuSeo_kYcQ",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Red BG"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue Skin"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Blue Bubble"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cat Eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Piercings"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
